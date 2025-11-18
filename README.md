@@ -13,3 +13,5 @@ TO RUN
 1. Open apdm360Turn.py
 2. In line 35 and 38 you can select the file to be analized
 3. If you want to see the k mean detection plots, change plot_a and plot_b to value = 2 (lines 29-30)
+
+<img width="432" height="288" alt="Fig02_example_PD001" src="https://github.com/user-attachments/assets/a3855e63-9f44-41f4-85e6-5307ad287e88" />
