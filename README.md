@@ -11,7 +11,7 @@ Code for analyzing 360 turning in place
 TO RUN
 
 1. Open apdm360Turn.py
-2. In lines 35 and 3,8 you can select the file to be analyzed
+2. In lines 35 and 38 you can select the file to be analyzed
 3. If you want to see the k-means detection plots, change plot_a and plot_b to value = 2 (lines 29-30)
 
 
