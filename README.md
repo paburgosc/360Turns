@@ -3,9 +3,9 @@ Code for analyzing 360 turning in place
 
 
 
--Folder data has the h5 from APDM /n
--Folder lib has the Python functions to read and analyze/n 
--Folder figures is used to save figures /n
+-Folder data has the h5 from APDM    
+-Folder lib has the Python functions to read and analyze     
+-Folder figures is used to save figures    
 
 
 TO RUN
